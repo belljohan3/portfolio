@@ -7,7 +7,7 @@
 
 :root {
   --color-primary: #000000;
-  --color-secondary: #1953f1;
+  --color-secondary: #07750a;
   --color-white: #FFFFFF;
   --color-black: #000;
   --color-grey0: #f8f8f8;
@@ -23,7 +23,7 @@
 
 .light-mode {
   --color-primary: #FFFFFF;
-  --color-secondary: #1953f1;
+  --color-secondary: #07750a;
   --color-white: #454e56;
   --color-black: #000;
   --color-grey0: #f8f8f8;
